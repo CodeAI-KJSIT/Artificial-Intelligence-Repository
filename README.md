@@ -4,7 +4,6 @@
 ## Statistics for Machine Learning
 ## Python Resources
 ## Data Analysis Resources
-## Data Warehousing Resources
 ## Machine Learning Resources
 ## Deep Learning Resources
 ## Natural Language Processing Resources
