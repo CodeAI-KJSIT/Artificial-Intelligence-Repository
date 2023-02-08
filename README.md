@@ -1,5 +1,7 @@
 #AI Resource
 
+## Mathematics for Machine Learning
+## Statistics for Machine Learning
 ## Python Resources
 ## Data Analysis Resources
 ## Data Warehousing Resources
