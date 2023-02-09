@@ -12,6 +12,10 @@
 ## Top Books 
 ## Research Paper Repository
 ## Roadmaps
+> Python Roadmap -> https://roadmap.sh/python
+
+> AI Expert Roadmap from i.am.ai -> https://i.am.ai/roadmap/
+ 
 
 ## Links to official documentation for all machine learning libraries
 - Numpy -> https://numpy.org/doc/1.24/user/index.html
