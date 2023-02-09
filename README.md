@@ -15,7 +15,7 @@
 ## Roadmaps
 > Python Roadmap -> https://roadmap.sh/python
 
-> AI Expert Roadmap from i.am.ai
+> AI Expert Roadmap from [i.am.ai]{https://i.am.ai/}
 - Introduction -> https://i.am.ai/roadmap/#introduction
 - Fundamentals -> https://i.am.ai/roadmap/#fundamentals
 - Data Science Roadmap -> https://i.am.ai/roadmap/#data-science-roadmap
