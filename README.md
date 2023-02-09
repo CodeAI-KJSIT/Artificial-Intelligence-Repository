@@ -1,4 +1,4 @@
-#AI Resource
+# AI Resource
 
 ## Mathematics for Machine Learning
 ## Statistics for Machine Learning
