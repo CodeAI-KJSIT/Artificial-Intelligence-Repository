@@ -4,6 +4,7 @@
 ## Statistics for Machine Learning
 ## Python Resources
 ## Data Analysis Resources
+## Big Data Analysis
 ## Machine Learning Resources
 ## Deep Learning Resources
 ## Natural Language Processing Resources
@@ -14,7 +15,14 @@
 ## Roadmaps
 > Python Roadmap -> https://roadmap.sh/python
 
-> AI Expert Roadmap from i.am.ai -> https://i.am.ai/roadmap/
+> AI Expert Roadmap from i.am.ai
+- Introduction -> https://i.am.ai/roadmap/#introduction
+- Fundamentals -> https://i.am.ai/roadmap/#fundamentals
+- Data Science Roadmap -> https://i.am.ai/roadmap/#data-science-roadmap
+- Machine Learning -> https://i.am.ai/roadmap/#machine-learning-roadmap
+- Deep Learning -> https://i.am.ai/roadmap/#deep-learning-roadmap
+- Data Engineer -> https://i.am.ai/roadmap/#data-engineer-roadmap
+- Big Data Engineer -> https://i.am.ai/roadmap/#big-data-engineer-roadmap
  
 
 ## Links to official documentation for all machine learning libraries
